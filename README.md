@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bipul Dutta
 #### Python programmer.
-![Python programmer.](https://scontent.fdac138-1.fna.fbcdn.net/v/t31.18172-8/26060158_1740165302724644_9001966159861078090_o.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=HFE0uV-4DuQAX-22uug&_nc_ht=scontent.fdac138-1.fna&oh=00_AT-hvg7xX577IB2qFoM0J3Oos-QiRlQSm0R1JwG0RhS3Sw&oe=62B10F30)
+![Python programmer.]
 
 I have been working at Yoko Food & Agro Ltd as IT officer for 5 years. I have been learning Python programming and Django framework. I want to build up my career as a Software Engineer.
 
